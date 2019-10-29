@@ -8,6 +8,6 @@ Completed Labs for Benjamin Yellin
 4. [Benjamin Yellin's Lab 4](https://github.com/byellin/IDD-Fa19-Lab4)
 5. [Benjamin Yellin's Lab 5](https://github.com/byellin/IDD-Fa19-Lab5)
 6. [Benjamin Yellin's Lab 6](https://github.com/byellin/IDD-Fa19-Lab6)
-
+7. [Benjamin Yellin's Lab 7](https://github.com/byellin/IDD-Fa19-Lab7/blob/master/README.md)
 # Prelabs
 [Lab 2 Prelab](https://github.com/byellin/IDD-Fa19-Lab2)
